@@ -1,4 +1,4 @@
-let balls = document.getElementsByClassName("Ball")
+let balls = document.getElementsByClassName("Ball");
 
 
 document.onmousemove = function() {
